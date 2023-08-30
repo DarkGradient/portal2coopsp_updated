@@ -31,4 +31,4 @@ After this, if you see YELLOW DOTS, type [ exit ] command. And start game again.
 
 (Q) - Some lines broken.
 
-(A) - Will be fix
+(A) - Will be fixed soon..
