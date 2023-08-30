@@ -1,7 +1,7 @@
 # Portal 2 Coop Sp Modification.
 
 Welcome.
-This modification is a fork of the original modification [ modification link ].
+This modification is a fork of the original modification portal2coopsp by PortalRex.
 This modification contains various fixes or improvements.
 
 ## Installition guide.
