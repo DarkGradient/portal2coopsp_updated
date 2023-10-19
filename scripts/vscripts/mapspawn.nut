@@ -34,13 +34,9 @@ entity.__KeyValueFromString("globalstate", "no_pinging_orange")
 //END HERE.
 //--------------------------------------------------------
 EntFire("@global_no_taunting_blue", "TurnOff")							//No Taunt Blue.
-printl("==== Command [@global_no_taunting_blue - TurnOff] Executed.")
 EntFire("@global_no_taunting_orange", "TurnOff")						//No Taunt Red.
-printl("==== Command [@global_no_taunting_orange - TurnOff] Executed.")
 EntFire("@global_no_pinging_orange", "TurnOff")							//No Ping Red.
-printl("==== Command [@global_no_pinging_orange - TurnOff] Executed.")
 EntFire("@global_no_pinging_blue", "TurnOff")							//No Ping Blue.
-printl("==== Command [@global_no_pinging_blue - TurnOff] Executed.")
 printl("==== All Done.")
 //--------------------------------------------------------
 //hang on. i think i need write some files, or recompile map..
