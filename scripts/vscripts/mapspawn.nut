@@ -22,14 +22,14 @@ entity.__KeyValueFromString("globalstate", "no_pinging_orange")
 {
 local entity = Entities.CreateByClassname("env_global")
 entity.__KeyValueFromString("targetname", "@global_no_taunting_blue")
-entity.__KeyValueFromString("globalstate", "no_pinging_blue")
+entity.__KeyValueFromString("globalstate", "no_taunting_blue")
 }
 //END HERE.
 //NO TAUNT P-BODY.
 {
 local entity = Entities.CreateByClassname("env_global")
 entity.__KeyValueFromString("targetname", "@global_no_tauntig_orange")
-entity.__KeyValueFromString("globalstate", "no_pinging_orange")
+entity.__KeyValueFromString("globalstate", "no_taunting_orange")
 }
 //END HERE.
 //--------------------------------------------------------
